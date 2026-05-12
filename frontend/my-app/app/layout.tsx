@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Fitness Pro",
+  title: "Stay Fit",
   description: "Fitness website",
 };
 
@@ -12,7 +12,7 @@ export default function RootLayout({ children }) {
 
         <nav className="flex justify-between p-6 bg-black text-white">
           <h1 className="text-2xl font-bold text-green-500">
-            Fitness Pro
+            Stay Fit
           </h1>
 
           <div className="flex gap-6">
